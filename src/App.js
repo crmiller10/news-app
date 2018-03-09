@@ -9,8 +9,9 @@ class App extends Component {
     this.state = {
       sources: [
         'engadget',
-        'espn',
-        'fortune'
+        'national-geographic',
+        'espn'
+        // 'fortune'
       ],
     }
   }
